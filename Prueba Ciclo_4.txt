@@ -8,4 +8,4 @@ lo estoy intentando :)
 
 y parece que me va a dar esta vez.
 
-Me cambie de RAMA,,,
+Me cambie de RAMA,,, de release (queda disponible para produccion) y cambio a Scrum
